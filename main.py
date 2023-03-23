@@ -30,10 +30,3 @@ def main():
 
 if __name__ == '__main__':
     main()
-
-
-n1 = 10 
-n2 = 15
-n3 = 20
-
-n1 < n2 < n3
